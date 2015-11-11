@@ -9,5 +9,7 @@ The purpose of the project is to gain basic familiarity with the core setup and 
 
 Further chapters of this tutorial will be covered in later sections of the Odin Project's curriculum. These chapters all work toward a single project that emulates Twitter. That project will also be logged on github as it is completed.
 
+The completed project is hosted on heroku at this link: https://agile-escarpment-4991.herokuapp.com/
+
 
 Feel free to contact me via email with questions about this project or either of the two programs mentioned above: patmallee@gmail.com.
