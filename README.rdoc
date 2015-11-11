@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is being completed alongside Chapter 2 of the Ruby on Rails Tutorial (https://www.railstutorial.org/book)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+My work on this tutorial has been recommended as part of The Odin Project (theodinproject.com)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The purpose of the project is to gain basic familiarity with the core setup and actions that make up teh Rails framework. Focus is largely on using scaffold commands to build two models that are related to each other.
+
+Further chapters of this tutorial will be covered in later sections of the Odin Project's curriculum. These chapters all work toward a single project that emulates Twitter. That project will also be logged on github as it is completed.
+
+
+Feel free to contact me via email with questions about this project or either of the two programs mentioned above: patmallee@gmail.com.
